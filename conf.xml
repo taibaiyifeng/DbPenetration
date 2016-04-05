@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<data>
+    <user>
+        <username>root</username>
+        <password>root123</password>
+    </user>
+    <conf>
+        <log>
+            <item>
+                <key>log</key>
+                <val>ON</val>
+            </item>
+            <item>
+                <key>log_bin</key>
+                <val>ON</val>
+            </item>
+            <item>
+                <key>log_slow_queries</key>
+                <val>ON</val>
+            </item>
+            <item>
+                <key>log_slave_updates</key>
+                <val>ON</val>
+            </item>
+        </log>
+
+
+    </conf>
+</data>
+
